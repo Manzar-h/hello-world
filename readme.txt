@@ -1,1 +1,1 @@
-Hello This is first line
+simple text file
